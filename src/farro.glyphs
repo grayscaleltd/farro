@@ -2,14 +2,7 @@
 .appVersion = "1075";
 DisplayStrings = (
 "pyszna bu/lslash ka\012ze s/lslash onecznikiem",
-/dieresiscomb/dotaccentcomb/acutecomb/hungarumlautcomb/circumflexcomb/caroncomb/brevecomb/ringcomb/commaturnedabovecomb/tildecomb/macroncomb,
-"1/fraction 2\0121/fraction 3\0122/fraction 5\0120123456789\012\01211/Placeholder 11/Placeholder 00/Placeholder 00\012/Placeholder/Placeholder/Placeholder/Placeholder/Placeholder/Placeholder/Placeholder/Placeholder",
-"*/backslash \U00B7/periodcentered.loclCAT.case :,/ellipsis !\U00A1/periodcentered.loclCAT #.?\U00BF\"';//_{}[]()/emdash/endash -\U00AB\U00BB/guilsinglleft/guilsinglright/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright/quotesinglbase \012\012/bullet.case/braceleft.case/braceright.case/bracketleft.case/bracketright.case/parenleft.case/parenright.case/guillemetleft.case/guillemetright.case/guilsinglleft.case/guilsinglright.case \012\012paral/periodcentered.loclCAT lel\012\012K\U00E6mi n\U00FD \U00F6xi h\U00E9r, ykist \U00FEj\U00F3fum n\U00FA b\U00E6\U00F0i v\U00EDl og \U00E1drepa.\012\012\012nn/Placeholder nn/Placeholder oo/Placeholder oo\012HH/Placeholder HH/Placeholder OO/Placeholder OO\01211/Placeholder 11/Placeholder 00/Placeholder 00",
-"A\U00C1/Abreve \U00C2\U00C4\U00C0/Amacron/Aogonek \U00C5\U00C3\U00C6BC/Cacute/Cacute.loclPLK/Ccaron \U00C7/Cdotaccent D\U00D0/Dcaron/Dcroat E\U00C9/Ecaron \U00CA\U00CB/Edotaccent \U00C8/Emacron/Eogonek FG/Gbreve/Gcommaaccent/Gdotaccent H/Hbar I\U00CD\U00CE\U00CF/Idotaccent \U00CC/Imacron/Iogonek J/Jacute K/Kcommaaccent L/Lacute/Lcaron/Lcommaaccent/Lslash MN/Nacute/Nacute.loclPLK/Ncaron/Ncommaaccent/Eng \U00D1O\U00D3/Oacute.loclPLK \U00D4\U00D6\U00D2/Ohungarumlaut/Omacron \U00D8\U00D5/OE P\U00DEQR/Racute/Rcaron/Rcommaaccent S/Sacute/Sacute.loclPLK/Scaron/Scedilla/Scommaaccent/Germandbls T/Tbar/Tcaron/Tcedilla/Tcommaaccent U\U00DA\U00DB\U00DC\U00D9/Uhungarumlaut/Umacron/Uogonek/Uring VW/Wacute/Wcircumflex/Wdieresis/Wgrave XY\U00DD/Ycircumflex/Ydieresis/Ygrave Z/Zacute/Zacute.loclPLK/Zcaron/Zdotaccent",
-"One thing that becomes apparent in the text setting is that it/quoteright s spaced too tight.\012\012And don't bother about the tittles when designing punctuation. They will usually have similar shapes, but can have very different sizes.\012\012clarification Sheffield",
-/iogonek,
-"\U00F0",
-"\U00A0"
+"HHATAHH HHT\U00C6HH\012HHAUAHH HHU\U00C6HH\012HHAVAHH HHV\U00C6HH\012HHAWAHH HHW\U00C6HH\012HHAYAHH HHY\U00C6HH\012HHAOAHH HHAQAHH HHACHH HHAGHH HHDAHH\012HHO\U00C6HH HHD\U00C6HH HHQ\U00C6HH\012HHOTOHH HHQTQHH HHDTHH HHTCHH HHTGHH\012HHOVOHH HHQVQHH HHDVHH HHVCHH HHVGHH\012HHOWOHH HHQWQHH HHDWHH HHWCHH HHWGHH\012HHOXOH\U00E5H HHQXQHH HHDXHH HHXCHH HHX\U00E5\U00E5GHH \012HHOYOHH HHQYQHH HHDYHH HHYCHH HHYGHH\012HHKOHH HHKCHH HHKGHH HHKQHH\012HHLOHH HHLCHH HHLGHH HHLQHH\012HHEOHH HHECHH HHEGHH HHEQHH\012HHFOHH HHFCHH HHFGHH HHFQHH \012HHFAHH HHF\U00C6HH \012HHPAHH HHP\U00C6HH           \012HHSYHH HHYSHH\012HHBTHH HHLTHH HHRTHH\012HHBVHH HHLVHH HHPVHH HHRVHH HHGVHH\012HHBWHH HHLWHH HHPWHH HHRWHH HHGWHH\012HHBXHH HHLXHH HHPXHH HHRXHH HHGXHH\012HHBYHH HHLYHH HHPYHH HHRYHH HHGYHH\012HHFJHH HHPJHH HHTJHH HHVJHH HHWJHH HHYJHH\012HHLUHH HHRUHH\012HHAAHH HHLAHH HHRAHH HHKAHH\012\012Fannon Kannon Pannon Tannon Vannon Wannon Yannon\012Fcnnon Kcnnon Pcnnon Tcnnon Vcnnon Wcnnon Xcnnon Ycnnon\012Fdnnon Kdnnon Pdnnon Tdnnon Vdnnon Wdnnon Xdnnon Ydnnon\012Fennon Kennon Pennon Tennon Vennon Wennon Xennon Yennon   \012Fqnnon Kqnnon Pqnnon Tqnnon Vqnnon Wqnnon Xqnnon Yqnnon   \012Fonnon Konnon Ponnon Tonnon Vonnon Wonnon Xonnon Yonnon\012Fgnnon Kgnnon Pgnnon Tgnnon Vgnnon Wgnnon Xgnnon Ygnnon\012Vinnon Winnon Yinnon\012Tmnnon Vmnnon Wmnnon Ymnnon\012Tnnnon Vnnnon Wnnnon Ynnnon\012Tpnnon Vpnnon Wpnnon Ypnnon\012Trnnon Vrnnon Wrnnon Yrnnon\012Tsnnon Vsnnon Wsnnon Ysnnon\012Atnnon Ytnnon\012Funnon Kunnon Tunnon Vunnon Wunnon Yunnon Xunnon\012Avnnon Kvnnon Lvnnon Tvnnon Vvnnon Yvnnon Xvnnon\012Awnnon Kwnnon Lwnnon Twnnon Vwnnon Ywnnon Xwnnon\012Txnnon Yxnnon\012Aynnon Kynnon Lynnon Tynnon Vynnon Wynnon Yynnon Xynnon\012Tznnon Yznnon\012\012nonavnon nonvanon nonawnon nonwanon\012nonovonon noncvcnon nonevenon nonbvdnon nonpvqnon\012nonowonon noncwcnon nonewenon nonbwdnon nonpwqnon\012nonoxonon noncxcnon nonexenon nonbxdnon nonpxqnon\012nonoyonon noncycnon noneyenon nonbydnon nonpyqnon\012nonkonon nonkcnon nonkenon nonkdnon nonkqnon\012nonranon nonronon nonrcnon nonrenon nonrdnon nonrqnon\012nonofonon noncfcnon nonefenon nonbfdnon nonpfqnon\012nonotonon nonctcnon nonetenon nonbtdnon nonptqnon\012\012HH/quoteleft AHH HHA/quoteright HH HH/quoteright AHH HH/quoteleft OHH HHO/quoteright HH HH/quoteright OHH HHL/quoteright HH\012HH/quotedblleft AHH HHA/quotedblright HH HH/quotedblright AHH HH/quotedblleft OHH HHO/quotedblright HH HH/quotedblright OHH HHL/quotedblright HH\012HH'A'HH HH'O'HH HHL'HH HH\"A\"HH HH\"O\"HH HHL\"HH\012HH*A*HH HH*O*HH HHL*HH\012HH.O.HH HH.T.HH HH.U.HH HH.V.HH HH.W.HH HH.Y.HH\012HHD.HH HHF.HH HHP.HH\012HH,O,HH HH,T,HH HH,U,HH HH,V,HH HH,W,HH HH,Y,HH\012HHD,HH HHF,HH HHP,HH\012HHK-HH HHL-HH\012HH-T-HH HH-V-HH HH-W-HH HH-X-HH HH-Y-HH HH-Z-HH\012HHT:HH HHV:HH HHW:HH HHY:HH\012HHT;HH HHV;HH HHW;HH HHY;HH\012HH\U00BFJHH HH\U00A1JHH\012\012nn.f.nn nn.o.nn nn.v.nn nn.w.nn nn.y.nn nnr.nn\012nn,f,nn nn,o,nn nn,v,nn nn,w,nn nn,y,nn nnr,nn\012nonf*non nonf?non non(f)non non[f]non non{f}non\012nonf'non nonf\"non nonf/quoteright non nonf/quotedblright non nonf/quoteleft non nonf/quotedblleft non\012non\U00BFjnon non(j)non non[j]non non{j}non\012nonk-non nonr-non non-x-non\012non/quoteright snon"
 );
 classes = (
 {
@@ -22,7 +15,7 @@ copyright = "Copyright © 2017 by Grayscale. All rights reserved.";
 customParameters = (
 {
 name = note;
-value = "[0.100] lowercase ready\012[0.110] uppercase, number, and basic punctuation ready\012[0.200] western and central european diacritics ready\012[0.210] math symbols ready\012[0.211] refined terminals\012[0.300] refined all side bearings & shape adjustments\012[0.310] added tabular figures\012[0.400] light master basic latin ready\012[0.410] light master diacritics ready\012[0.420] light master number ready\012[0.500] added arrows & readjusted weight\012[0.510] added glyphs to cater Google minimum character set\012[0.520] added standard ligatures and adjusted vertical metrics\012[0.521] adjusted vertical metrics\012[0.530] adjusted shapes\012[0.540] re-spaced light master\012[0.541] Adjusted /eth and space width";
+value = "# Current\012\012[0.541] adjusted /eth and space width\012\012# Past versions\012\012[0.100] lowercase ready\012[0.110] uppercase, number, and basic punctuation ready\012[0.200] western and central european diacritics ready\012[0.210] math symbols ready\012[0.211] refined terminals\012[0.300] refined all side bearings & shape adjustments\012[0.310] added tabular figures\012[0.400] light master basic latin ready\012[0.410] light master diacritics ready\012[0.420] light master number ready\012[0.500] added arrows & readjusted weight\012[0.510] added glyphs to cater Google minimum character set\012[0.520] added standard ligatures and adjusted vertical metrics\012[0.521] adjusted vertical metrics\012[0.530] adjusted shapes\012[0.540] re-spaced light master\012\012# Projected\012\012[0.550] book weight master kerned\012[0.551] bold weight master kerned";
 }
 );
 date = "2017-11-03 03:12:03 +0000";
@@ -254,7 +247,7 @@ xHeight = 600;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2017-11-02 04:49:31 +0000";
+lastChange = "2017-11-07 07:53:34 +0000";
 layers = (
 {
 anchors = (
@@ -363,6 +356,8 @@ nodes = (
 width = 661;
 }
 );
+leftKerningGroup = A;
+rightKerningGroup = A;
 unicode = 0041;
 },
 {
@@ -664,7 +659,7 @@ unicode = 00C3;
 },
 {
 glyphname = AE;
-lastChange = "2017-11-02 05:12:33 +0000";
+lastChange = "2017-11-07 07:46:11 +0000";
 layers = (
 {
 anchors = (
@@ -878,6 +873,7 @@ nodes = (
 width = 863;
 }
 );
+leftKerningGroup = AE;
 rightMetricsKey = E;
 unicode = 00C6;
 },
@@ -1162,7 +1158,7 @@ unicode = 0042;
 },
 {
 glyphname = C;
-lastChange = "2017-11-02 04:46:26 +0000";
+lastChange = "2017-11-07 07:35:44 +0000";
 layers = (
 {
 anchors = (
@@ -1527,7 +1523,9 @@ nodes = (
 width = 615;
 }
 );
+leftKerningGroup = O;
 leftMetricsKey = O;
+rightKerningGroup = C;
 unicode = 0043;
 },
 {
@@ -1696,7 +1694,7 @@ unicode = 010A;
 },
 {
 glyphname = D;
-lastChange = "2017-11-02 02:31:25 +0000";
+lastChange = "2017-11-07 07:31:55 +0000";
 layers = (
 {
 anchors = (
@@ -1846,6 +1844,7 @@ width = 664;
 }
 );
 leftMetricsKey = H;
+rightKerningGroup = O;
 rightMetricsKey = O;
 unicode = 0044;
 },
@@ -2364,7 +2363,7 @@ unicode = 0118;
 },
 {
 glyphname = F;
-lastChange = "2017-11-02 05:01:55 +0000";
+lastChange = "2017-11-07 07:45:06 +0000";
 layers = (
 {
 anchors = (
@@ -2464,7 +2463,7 @@ unicode = 0046;
 },
 {
 glyphname = G;
-lastChange = "2017-11-02 05:02:32 +0000";
+lastChange = "2017-11-07 07:44:51 +0000";
 layers = (
 {
 anchors = (
@@ -2938,6 +2937,7 @@ nodes = (
 width = 643;
 }
 );
+leftKerningGroup = O;
 leftMetricsKey = O;
 unicode = 0047;
 },
@@ -3564,7 +3564,7 @@ unicode = 012E;
 },
 {
 glyphname = J;
-lastChange = "2017-11-02 05:03:32 +0000";
+lastChange = "2017-11-07 07:52:17 +0000";
 layers = (
 {
 anchors = (
@@ -4827,7 +4827,7 @@ unicode = 00D1;
 },
 {
 glyphname = O;
-lastChange = "2017-11-02 02:30:37 +0000";
+lastChange = "2017-11-07 07:44:13 +0000";
 layers = (
 {
 anchors = (
@@ -5004,6 +5004,8 @@ nodes = (
 width = 698;
 }
 );
+leftKerningGroup = O;
+rightKerningGroup = O;
 unicode = 004F;
 },
 {
@@ -6039,7 +6041,7 @@ unicode = 00DE;
 },
 {
 glyphname = Q;
-lastChange = "2017-11-02 02:31:25 +0000";
+lastChange = "2017-11-07 07:38:13 +0000";
 layers = (
 {
 anchors = (
@@ -6358,13 +6360,15 @@ nodes = (
 width = 651;
 }
 );
+leftKerningGroup = O;
 leftMetricsKey = O;
+rightKerningGroup = O;
 rightMetricsKey = O;
 unicode = 0051;
 },
 {
 glyphname = R;
-lastChange = "2017-11-02 05:08:41 +0000";
+lastChange = "2017-11-07 07:50:00 +0000";
 layers = (
 {
 anchors = (
@@ -6432,11 +6436,11 @@ width = 637;
 anchors = (
 {
 name = bottom;
-position = "{325, 0}";
+position = "{327, 0}";
 },
 {
 name = top;
-position = "{325, 750}";
+position = "{327, 750}";
 }
 );
 layerId = "3B8C7C8F-80C4-4490-BC4D-FB44BC992E9B";
@@ -6444,51 +6448,51 @@ paths = (
 {
 closed = 1;
 nodes = (
-"358 220 LINE SMOOTH",
-"481 220 OFFCURVE",
-"585 318 OFFCURVE",
-"585 486 CURVE SMOOTH",
-"585 659 OFFCURVE",
-"481 750 OFFCURVE",
-"359 750 CURVE SMOOTH",
-"157 750 LINE",
-"157 672 LINE",
-"333 672 LINE SMOOTH",
-"443 672 OFFCURVE",
-"498 611 OFFCURVE",
-"498 486 CURVE SMOOTH",
-"498 357 OFFCURVE",
-"443 298 OFFCURVE",
-"331 298 CURVE SMOOTH",
-"163 298 LINE",
-"163 220 LINE"
+"360 220 LINE SMOOTH",
+"483 220 OFFCURVE",
+"587 318 OFFCURVE",
+"587 486 CURVE SMOOTH",
+"587 659 OFFCURVE",
+"483 750 OFFCURVE",
+"361 750 CURVE SMOOTH",
+"159 750 LINE",
+"159 672 LINE",
+"335 672 LINE SMOOTH",
+"445 672 OFFCURVE",
+"500 611 OFFCURVE",
+"500 486 CURVE SMOOTH",
+"500 357 OFFCURVE",
+"445 298 OFFCURVE",
+"333 298 CURVE SMOOTH",
+"165 298 LINE",
+"165 220 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"192 0 LINE",
-"182 150 LINE",
-"182 750 LINE",
-"95 750 LINE",
-"100 605 LINE",
-"100 150 LINE",
-"95 0 LINE"
+"194 0 LINE",
+"184 150 LINE",
+"184 750 LINE",
+"97 750 LINE",
+"102 605 LINE",
+"102 150 LINE",
+"97 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"629 0 LINE",
-"501 150 LINE",
-"409 269 LINE",
-"306 269 LINE",
-"398 150 LINE",
-"504 0 LINE"
+"631 0 LINE",
+"503 150 LINE",
+"411 269 LINE",
+"308 269 LINE",
+"400 150 LINE",
+"506 0 LINE"
 );
 }
 );
-width = 664;
+width = 666;
 }
 );
 leftMetricsKey = H;
@@ -6595,7 +6599,7 @@ unicode = 0156;
 },
 {
 glyphname = S;
-lastChange = "2017-11-02 05:08:57 +0000";
+lastChange = "2017-11-07 07:46:31 +0000";
 layers = (
 {
 anchors = (
@@ -7350,7 +7354,7 @@ unicode = 1E9E;
 },
 {
 glyphname = T;
-lastChange = "2017-11-02 05:09:51 +0000";
+lastChange = "2017-11-07 07:47:18 +0000";
 layers = (
 {
 anchors = (
@@ -7629,7 +7633,7 @@ unicode = 021A;
 },
 {
 glyphname = U;
-lastChange = "2017-11-02 05:10:13 +0000";
+lastChange = "2017-11-07 07:52:38 +0000";
 layers = (
 {
 anchors = (
@@ -8147,7 +8151,7 @@ unicode = 016E;
 },
 {
 glyphname = V;
-lastChange = "2017-11-02 05:11:03 +0000";
+lastChange = "2017-11-07 08:54:17 +0000";
 layers = (
 {
 anchors = (
@@ -8350,7 +8354,7 @@ unicode = 0056;
 },
 {
 glyphname = W;
-lastChange = "2017-11-02 05:11:16 +0000";
+lastChange = "2017-11-07 07:49:06 +0000";
 layers = (
 {
 anchors = (
@@ -8832,7 +8836,7 @@ unicode = 1E80;
 },
 {
 glyphname = X;
-lastChange = "2017-11-02 05:11:36 +0000";
+lastChange = "2017-11-07 07:49:39 +0000";
 layers = (
 {
 anchors = (
@@ -9065,7 +9069,7 @@ unicode = 0058;
 },
 {
 glyphname = Y;
-lastChange = "2017-11-02 05:11:53 +0000";
+lastChange = "2017-11-07 07:50:46 +0000";
 layers = (
 {
 anchors = (
@@ -9601,7 +9605,7 @@ unicode = 017B;
 },
 {
 glyphname = a;
-lastChange = "2017-11-02 02:51:58 +0000";
+lastChange = "2017-11-07 09:21:38 +0000";
 layers = (
 {
 anchors = (
@@ -10430,7 +10434,7 @@ unicode = 0105;
 },
 {
 glyphname = aring;
-lastChange = "2017-11-02 03:20:52 +0000";
+lastChange = "2017-11-07 07:42:34 +0000";
 layers = (
 {
 components = (
@@ -10775,7 +10779,7 @@ unicode = 00E6;
 },
 {
 glyphname = b;
-lastChange = "2017-11-02 02:52:12 +0000";
+lastChange = "2017-11-07 09:09:53 +0000";
 layers = (
 {
 anchors = (
@@ -10979,12 +10983,13 @@ width = 615;
 );
 leftKerningGroup = l;
 leftMetricsKey = l;
+rightKerningGroup = o;
 rightMetricsKey = o;
 unicode = 0062;
 },
 {
 glyphname = c;
-lastChange = "2017-11-02 02:44:55 +0000";
+lastChange = "2017-11-07 08:46:38 +0000";
 layers = (
 {
 anchors = (
@@ -11697,7 +11702,7 @@ unicode = 010B;
 },
 {
 glyphname = d;
-lastChange = "2017-11-02 02:52:12 +0000";
+lastChange = "2017-11-07 08:46:59 +0000";
 layers = (
 {
 anchors = (
@@ -12431,7 +12436,7 @@ unicode = 0111;
 },
 {
 glyphname = e;
-lastChange = "2017-11-02 02:48:05 +0000";
+lastChange = "2017-11-07 09:19:30 +0000";
 layers = (
 {
 anchors = (
@@ -13477,7 +13482,7 @@ unicode = 0119;
 },
 {
 glyphname = f;
-lastChange = "2017-11-02 03:51:29 +0000";
+lastChange = "2017-11-07 09:23:06 +0000";
 layers = (
 {
 anchors = (
@@ -15510,7 +15515,7 @@ unicode = 0142;
 },
 {
 glyphname = m;
-lastChange = "2017-11-02 02:51:58 +0000";
+lastChange = "2017-11-07 08:49:26 +0000";
 layers = (
 {
 anchors = (
@@ -16236,7 +16241,7 @@ unicode = 00F1;
 },
 {
 glyphname = o;
-lastChange = "2017-11-02 02:25:09 +0000";
+lastChange = "2017-11-07 09:23:45 +0000";
 layers = (
 {
 anchors = (
@@ -16753,7 +16758,7 @@ unicode = 0153;
 },
 {
 glyphname = p;
-lastChange = "2017-11-02 02:51:58 +0000";
+lastChange = "2017-11-07 08:51:21 +0000";
 layers = (
 {
 anchors = (
@@ -17092,7 +17097,7 @@ nodes = (
 width = 555;
 }
 );
-leftKerningGroup = l;
+leftKerningGroup = p;
 leftMetricsKey = l;
 rightKerningGroup = o;
 rightMetricsKey = o;
@@ -17748,7 +17753,7 @@ unicode = 0157;
 },
 {
 glyphname = s;
-lastChange = "2017-11-02 07:04:00 +0000";
+lastChange = "2017-11-07 08:52:45 +0000";
 layers = (
 {
 anchors = (
@@ -17988,6 +17993,8 @@ nodes = (
 width = 561;
 }
 );
+leftKerningGroup = s;
+rightKerningGroup = s;
 unicode = 0073;
 },
 {
@@ -18584,7 +18591,7 @@ width = 663;
 },
 {
 glyphname = t;
-lastChange = "2017-11-02 08:04:23 +0000";
+lastChange = "2017-11-07 09:24:19 +0000";
 layers = (
 {
 anchors = (
@@ -18981,6 +18988,8 @@ nodes = (
 width = 450;
 }
 );
+leftKerningGroup = t;
+rightKerningGroup = t;
 unicode = 0074;
 },
 {
@@ -19120,7 +19129,7 @@ unicode = 021B;
 },
 {
 glyphname = u;
-lastChange = "2017-11-02 02:51:58 +0000";
+lastChange = "2017-11-07 08:55:21 +0000";
 layers = (
 {
 anchors = (
@@ -19581,7 +19590,7 @@ unicode = 016F;
 },
 {
 glyphname = v;
-lastChange = "2017-11-02 05:17:54 +0000";
+lastChange = "2017-11-07 09:09:31 +0000";
 layers = (
 {
 anchors = (
@@ -19664,7 +19673,7 @@ unicode = 0076;
 },
 {
 glyphname = w;
-lastChange = "2017-11-02 03:31:27 +0000";
+lastChange = "2017-11-07 09:18:38 +0000";
 layers = (
 {
 anchors = (
@@ -19919,7 +19928,7 @@ unicode = 1E81;
 },
 {
 glyphname = x;
-lastChange = "2017-11-02 03:31:41 +0000";
+lastChange = "2017-11-07 09:18:22 +0000";
 layers = (
 {
 associatedMasterId = "9C4F76E1-3798-46C8-A886-41EF97D6106F";
@@ -20192,7 +20201,7 @@ unicode = 0078;
 },
 {
 glyphname = y;
-lastChange = "2017-11-02 05:18:05 +0000";
+lastChange = "2017-11-07 09:19:58 +0000";
 layers = (
 {
 anchors = (
@@ -20437,7 +20446,7 @@ unicode = 1EF3;
 },
 {
 glyphname = z;
-lastChange = "2017-11-02 03:49:22 +0000";
+lastChange = "2017-11-07 09:02:16 +0000";
 layers = (
 {
 anchors = (
@@ -39345,6 +39354,219 @@ kerning = {
 idotless = {
 "@MMK_R_i" = 0;
 i = 0;
+};
+A = {
+T = -15;
+U = -15;
+H = 0;
+V = -50;
+W = -45;
+Y = -60;
+"@MMK_R_C" = -28;
+"@MMK_R_O" = -10;
+};
+T = {
+A = -15;
+AE = -80;
+"@MMK_R_O" = -25;
+a = -35;
+"@MMK_R_o" = -40;
+"@MMK_R_n" = -45;
+"@MMK_R_p" = -30;
+"@MMK_R_s" = -55;
+u = -45;
+v = -45;
+w = -30;
+x = -35;
+y = -20;
+z = -15;
+};
+U = {
+A = -15;
+AE = -35;
+};
+V = {
+A = -50;
+AE = -85;
+"@MMK_R_O" = -18;
+J = -20;
+a = -35;
+"@MMK_R_o" = -35;
+"@MMK_R_n" = -25;
+"@MMK_R_p" = -18;
+"@MMK_R_s" = -33;
+u = -30;
+v = -15;
+w = -25;
+y = -10;
+};
+W = {
+A = -45;
+AE = -45;
+"@MMK_R_O" = -25;
+J = -10;
+a = -25;
+"@MMK_R_o" = -30;
+"@MMK_R_n" = -10;
+"@MMK_R_p" = -5;
+"@MMK_R_s" = -20;
+u = -15;
+y = -8;
+};
+Y = {
+A = -60;
+AE = -75;
+"@MMK_R_O" = -30;
+S = -25;
+J = -25;
+a = -30;
+"@MMK_R_o" = -45;
+"@MMK_R_n" = -20;
+"@MMK_R_p" = -35;
+"@MMK_R_s" = -45;
+"@MMK_R_t" = -35;
+u = -25;
+v = -25;
+w = -20;
+x = -20;
+y = -18;
+z = -15;
+};
+Q = {
+A = -10;
+};
+"@MMK_L_O" = {
+A = -10;
+"@MMK_R_A" = -35;
+"@MMK_R_AE" = -32;
+T = -25;
+V = -18;
+W = -25;
+X = -15;
+Y = -20;
+};
+X = {
+"@MMK_R_O" = -20;
+aring = -10;
+"@MMK_R_o" = -25;
+u = -25;
+v = -40;
+w = -35;
+y = -10;
+};
+K = {
+"@MMK_R_O" = -35;
+a = -15;
+"@MMK_R_o" = -35;
+u = -25;
+v = -35;
+w = -30;
+y = -20;
+};
+L = {
+"@MMK_R_O" = -20;
+T = -50;
+V = -40;
+W = -15;
+Y = -40;
+U = -5;
+"@MMK_R_A" = -5;
+v = -40;
+w = -30;
+y = -8;
+};
+E = {
+"@MMK_R_O" = -10;
+};
+F = {
+"@MMK_R_O" = -22;
+"@MMK_R_A" = -40;
+"@MMK_R_AE" = -95;
+a = -5;
+"@MMK_R_o" = -19;
+u = -10;
+};
+H = {
+F = 0;
+};
+P = {
+"@MMK_R_A" = -40;
+"@MMK_R_AE" = -95;
+V = -5;
+X = -20;
+Y = -10;
+a = -5;
+"@MMK_R_o" = -10;
+};
+S = {
+Y = -25;
+};
+B = {
+T = -5;
+V = -15;
+X = -10;
+};
+R = {
+T = -5;
+V = -10;
+U = -5;
+};
+G = {
+V = -10;
+W = -5;
+};
+"@MMK_L_A" = {
+"@MMK_R_A" = -15;
+"@MMK_R_t" = -45;
+v = -40;
+w = -30;
+y = -30;
+};
+"@MMK_L_n" = {
+v = -7;
+w = -8;
+};
+v = {
+a = -20;
+"@MMK_R_o" = -12;
+};
+w = {
+a = -20;
+"@MMK_R_o" = -12;
+};
+"@MMK_L_o" = {
+v = -12;
+w = -12;
+x = -25;
+y = -8;
+f = -5;
+"@MMK_R_t" = -5;
+};
+e = {
+v = -5;
+x = -10;
+w = -8;
+y = -2;
+"@MMK_R_t" = -7;
+};
+x = {
+"@MMK_R_o" = -25;
+};
+y = {
+"@MMK_R_o" = -18;
+};
+k = {
+"@MMK_R_o" = -20;
+};
+r = {
+a = -25;
+"@MMK_R_o" = -18;
+};
+f = {
+"@MMK_R_o" = -22;
+};
+"@MMK_L_t" = {
+"@MMK_R_o" = -5;
 };
 };
 };
