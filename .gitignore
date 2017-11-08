@@ -36,6 +36,16 @@
 ehthumbs.db
 Thumbs.db
 
+# File manager empty files #
+############################
+.empty
+.sparkleshare
+
+# Font editor temporary files #
+###############################
+*(Autosaved).glyphs
+*.vfbak
+
 # Other design files #
 ######################
 /critiques
