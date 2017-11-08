@@ -2,8 +2,8 @@
 .appVersion = "1075";
 DisplayStrings = (
 "pyszna bu/lslash ka\012ze s/lslash onecznikiem",
-"HHATAHH HHT\U00C6HH\012HHAUAHH HHU\U00C6HH\012HHAVAHH HHV\U00C6HH\012HHAWAHH HHW\U00C6HH\012HHAYAHH HHY\U00C6HH\012HHAOAHH HHAQAHH HHACHH HHAGHH HHDAHH\012HHO\U00C6HH HHD\U00C6HH HHQ\U00C6HH\012HHOTOHH HHQTQHH HHDTHH HHTCHH HHTGHH\012HHOVOHH HHQVQHH HHDVHH HHVCHH HHVGHH\012HHOWOHH HHQWQHH HHDWHH HHWCHH HHWGHH\012HHOXOH\U00E5H HHQXQHH HHDXHH HHXCHH HHX\U00E5\U00E5GHH \012HHOYOHH HHQYQHH HHDYHH HHYCHH HHYGHH\012HHKOHH HHKCHH HHKGHH HHKQHH\012HHLOHH HHLCHH HHLGHH HHLQHH\012HHEOHH HHECHH HHEGHH HHEQHH\012HHFOHH HHFCHH HHFGHH HHFQHH \012HHFAHH HHF\U00C6HH \012HHPAHH HHP\U00C6HH           \012HHSYHH HHYSHH\012HHBTHH HHLTHH HHRTHH\012HHBVHH HHLVHH HHPVHH HHRVHH HHGVHH\012HHBWHH HHLWHH HHPWHH HHRWHH HHGWHH\012HHBXHH HHLXHH HHPXHH HHRXHH HHGXHH\012HHBYHH HHLYHH HHPYHH HHRYHH HHGYHH\012HHFJHH HHPJHH HHTJHH HHVJHH HHWJHH HHYJHH\012HHLUHH HHRUHH\012HHAAHH HHLAHH HHRAHH HHKAHH\012\012Fannon Kannon Pannon Tannon Vannon Wannon Yannon\012Fcnnon Kcnnon Pcnnon Tcnnon Vcnnon Wcnnon Xcnnon Ycnnon\012Fdnnon Kdnnon Pdnnon Tdnnon Vdnnon Wdnnon Xdnnon Ydnnon\012Fennon Kennon Pennon Tennon Vennon Wennon Xennon Yennon   \012Fqnnon Kqnnon Pqnnon Tqnnon Vqnnon Wqnnon Xqnnon Yqnnon   \012Fonnon Konnon Ponnon Tonnon Vonnon Wonnon Xonnon Yonnon\012Fgnnon Kgnnon Pgnnon Tgnnon Vgnnon Wgnnon Xgnnon Ygnnon\012Vinnon Winnon Yinnon\012Tmnnon Vmnnon Wmnnon Ymnnon\012Tnnnon Vnnnon Wnnnon Ynnnon\012Tpnnon Vpnnon Wpnnon Ypnnon\012Trnnon Vrnnon Wrnnon Yrnnon\012Tsnnon Vsnnon Wsnnon Ysnnon\012Atnnon Ytnnon\012Funnon Kunnon Tunnon Vunnon Wunnon Yunnon Xunnon\012Avnnon Kvnnon Lvnnon Tvnnon Vvnnon Yvnnon Xvnnon\012Awnnon Kwnnon Lwnnon Twnnon Vwnnon Ywnnon Xwnnon\012Txnnon Yxnnon\012Aynnon Kynnon Lynnon Tynnon Vynnon Wynnon Yynnon Xynnon\012Tznnon Yznnon\012\012nonavnon nonvanon nonawnon nonwanon\012nonovonon noncvcnon nonevenon nonbvdnon nonpvqnon\012nonowonon noncwcnon nonewenon nonbwdnon nonpwqnon\012nonoxonon noncxcnon nonexenon nonbxdnon nonpxqnon\012nonoyonon noncycnon noneyenon nonbydnon nonpyqnon\012nonkonon nonkcnon nonkenon nonkdnon nonkqnon\012nonranon nonronon nonrcnon nonrenon nonrdnon nonrqnon\012nonofonon noncfcnon nonefenon nonbfdnon nonpfqnon\012nonotonon nonctcnon nonetenon nonbtdnon nonptqnon\012\012HH/quoteleft AHH HHA/quoteright HH HH/quoteright AHH HH/quoteleft OHH HHO/quoteright HH HH/quoteright OHH HHL/quoteright HH\012HH/quotedblleft AHH HHA/quotedblright HH HH/quotedblright AHH HH/quotedblleft OHH HHO/quotedblright HH HH/quotedblright OHH HHL/quotedblright HH\012HH'A'HH HH'O'HH HHL'HH HH\"A\"HH HH\"O\"HH HHL\"HH\012HH*A*HH HH*O*HH HHL*HH\012HH.O.HH HH.T.HH HH.U.HH HH.V.HH HH.W.HH HH.Y.HH\012HHD.HH HHF.HH HHP.HH\012HH,O,HH HH,T,HH HH,U,HH HH,V,HH HH,W,HH HH,Y,HH\012HHD,HH HHF,HH HHP,HH\012HHK-HH HHL-HH\012HH-T-HH HH-V-HH HH-W-HH HH-X-HH HH-Y-HH HH-Z-HH\012HHT:HH HHV:HH HHW:HH HHY:HH\012HHT;HH HHV;HH HHW;HH HHY;HH\012HH\U00BFJHH HH\U00A1JHH\012\012-/endash/emdash \012\012nn.f.nn nn.o.nn nn.v.nn nn.w.nn nn.y.nn nnr.nn\012nn,f,nn nn,o,nn nn,v,nn nn,w,nn nn,y,nn nnr,nn\012nonf*non nonf?non non(f)non non[f]non non{f}non\012nonf'non nonf\"non nonf/quoteright non nonf/quotedblright non nonf/quoteleft non nonf/quotedblleft non\012non\U00BFjnon non(j)non non[j]non non{j}non\012nonk-non nonr-non non-x-non\012non/quoteright snon",
-"/quotedblright/quotedblleft \"'\0122'11\"\012nn/Placeholder nn/Placeholder oo/Placeholder oo\012HH/Placeholder HH/Placeholder OO/Placeholder OO"
+"HHATAHH HHT\U00C6HH\012HHAUAHH HHU\U00C6HH\012HHAVAHH HHV\U00C6HH\012HHAWAHH HHW\U00C6HH\012HHAYAHH HHY\U00C6HH\012HHAOAHH HHAQAHH HHACHH HHAGHH HHDAHH\012HHO\U00C6HH HHD\U00C6HH HHQ\U00C6HH\012HHOTOHH HHQTQHH HHDTHH HHTCHH HHTGHH\012HHOVOHH HHQVQHH HHDVHH HHVCHH HHVGHH\012HHOWOHH HHQWQHH HHDWHH HHWCHH HHWGHH\012HHOXOH\U00E5H HHQXQHH HHDXHH HHXCHH HHX\U00E5\U00E5GHH \012HHOYOHH HHQYQHH HHDYHH HHYCHH HHYGHH\012HHKOHH HHKCHH HHKGHH HHKQHH\012HHLOHH HHLCHH HHLGHH HHLQHH\012HHEOHH HHECHH HHEGHH HHEQHH\012HHFOHH HHFCHH HHFGHH HHFQHH \012HHFAHH HHF\U00C6HH \012HHPAHH HHP\U00C6HH           \012HHSYHH HHYSHH\012HHBTHH HHLTHH HHRTHH\012HHBVHH HHLVHH HHPVHH HHRVHH HHGVHH\012HHBWHH HHLWHH HHPWHH HHRWHH HHGWHH\012HHBXHH HHLXHH HHPXHH HHRXHH HHGXHH\012HHBYHH HHLYHH HHPYHH HHRYHH HHGYHH\012HHFJHH HHPJHH HHTJHH HHVJHH HHWJHH HHYJHH\012HHLUHH HHRUHH\012HHAAHH HHLAHH HHRAHH HHKAHH\012\012Fannon Kannon Pannon Tannon Vannon Wannon Yannon Zannon\012Fcnnon Kcnnon Pcnnon Tcnnon Vcnnon Wcnnon Xcnnon Ycnnon\012Fdnnon Kdnnon Pdnnon Tdnnon Vdnnon Wdnnon Xdnnon Ydnnon\012Fennon Kennon Pennon Tennon Vennon Wennon Xennon Yennon   \012Fqnnon Kqnnon Pqnnon Tqnnon Vqnnon Wqnnon Xqnnon Yqnnon   \012Fonnon Konnon Ponnon Tonnon Vonnon Wonnon Xonnon Yonnon Zonnon\012Fgnnon Kgnnon Pgnnon Tgnnon Vgnnon Wgnnon Xgnnon Ygnnon\012Vinnon Winnon Yinnon\012Tmnnon Vmnnon Wmnnon Ymnnon\012Tnnnon Vnnnon Wnnnon Ynnnon\012Tpnnon Vpnnon Wpnnon Ypnnon\012Trnnon Vrnnon Wrnnon Yrnnon\012Osnnon Tsnnon Vsnnon Wsnnon Ysnnon\012Atnnon Ytnnon\012Funnon Kunnon Tunnon Vunnon Wunnon Yunnon Xunnon\012Avnnon Kvnnon Lvnnon Ovnnon Svnnon Tvnnon Vvnnon Yvnnon Xvnnon\012Awnnon Kwnnon Lwnnon Ownnon Swnnon Twnnon Vwnnon Ywnnon Xwnnon\012Oxnnon Sxnnon Txnnon Yxnnon\012Aynnon Kynnon Lynnon Oynnon Synnon Tynnon Vynnon Wynnon Yynnon Xynnon Zynnon\012Oznnon Sznnon Tznnon Yznnon\012\012nonavnon nonvanon nonawnon nonwanon\012nonovonon noncvcnon nonevenon nonbvdnon nonpvqnon\012nonowonon noncwcnon nonewenon nonbwdnon nonpwqnon\012nonoxonon noncxcnon nonexenon nonbxdnon nonpxqnon\012nonoyonon noncycnon noneyenon nonbydnon nonpyqnon\012nonkonon nonkcnon nonkenon nonkdnon nonkqnon\012nonranon nonronon nonrcnon nonrenon nonrdnon nonrqnon\012nonofonon noncfcnon nonefenon nonbfdnon nonpfqnon\012nonotonon nonctcnon nonetenon nonbtdnon nonptqnon\012nonozonon\012\012HH/quoteleft AHH HHA/quoteright HH HH/quoteright AHH HH/quoteleft OHH HHO/quoteright HH HH/quoteright OHH HHL/quoteright HH\012HH/quotedblleft AHH HHA/quotedblright HH HH/quotedblright AHH HH/quotedblleft OHH HHO/quotedblright HH HH/quotedblright OHH HHL/quotedblright HH\012HH'A'HH HH'O'HH HHL'HH HH\"A\"HH HH\"O\"HH HHL\"HH\012HH*A*HH HH*O*HH HHL*HH\012HH.O.HH HH.T.HH HH.U.HH HH.V.HH HH.W.HH HH.Y.HH\012HHD.HH HHF.HH HHP.HH\012HH,O,HH HH,T,HH HH,U,HH HH,V,HH HH,W,HH HH,Y,HH\012HHD,HH HHF,HH HHP,HH\012HHK-HH HHL-HH\012HH-T-HH HH-V-HH HH-W-HH HH-X-HH HH-Y-HH HH-Z-HH\012HHT:HH HHV:HH HHW:HH HHY:HH\012HHT;HH HHV;HH HHW;HH HHY;HH\012HH\U00BFJHH HH\U00A1JHH\012\012-/endash/emdash \012\012nn.f.nn nn.o.nn nn.v.nn nn.w.nn nn.y.nn nnr.nn\012nn,f,nn nn,o,nn nn,v,nn nn,w,nn nn,y,nn nnr,nn\012nonf*non nonf?non non(f)non non[f]non non{f}non\012nonf'non nonf\"non nonf/quoteright non nonf/quotedblright non nonf/quoteleft non nonf/quotedblleft non\012non\U00BFjnon non(j)non non[j]non non{j}non\012nonk-non nonr-non non-x-non\012non/quoteright snon",
+"Part 1: All Lowercase - 32px\012lynx tuft frogs, dolphins abduct by proxy the ever awkward klutz, dud, dummkopf, jinx snubnose filmgoer, orphan sgt. renfruw grudgek reyfus, md. sikh psych if halt tympany jewelry sri heh! twyer vs jojo pneu fylfot alcaaba son of nonplussed halfbreed bubbly playboy guggenheim daddy coccyx sgraffito effect, vacuum dirndle impossible attempt to disvalue, muzzle the afghan czech czar and exninja, bob bixby dvorak wood dhurrie savvy, dizzy eye aeon circumcision uvula scrungy picnic luxurious special type carbohydrate ovoid adzuki kumquat bomb? afterglows gold girl pygmy gnome lb. ankhs acme aggroupment akmed brouhha tv wt. ujjain ms. oz abacus mnemonics bhikku khaki bwana aorta embolism vivid owls often kvetch otherwise, wysiwyg densfort wright you/quoteright ve absorbed rhythm, put obstacle kyaks krieg kern wurst subject enmity equity coquet quorum pique tzetse hepzibah sulfhydryl briefcase ajax ehler kafka fjord elfship halfdressed jugful eggcup hummingbirds swingdevil bagpipe legwork reproachful hunchback archknave baghdad wejh rijswijk rajbansi rajput ajdir okay weekday obfuscate subpoena liebknecht marcgravia ecbolic arcticward dickcissel pincpinc boldface maidkin adjective adcraft adman dwarfness applejack darkbrown kiln palzy always farmland flimflam unbossy nonlineal stepbrother lapdog stopgap sx countdown basketball beaujolais vb. flowchart aztec lazy bozo syrup tarzan annoying dyke yucky hawg gagzhukz cuzco squire when hiho mayhem nietzsche szasz gumdrop milk emplotment ambidextrously lacquer byway ecclesiastes stubchen hobgoblins crabmill aqua hawaii blvd. subquality byzantine empire debt obvious cervantes jekabzeel anecdote flicflac mechanicville bedbug couldn/quoteright t i/quoteright ve it/quoteright s they/quoteright ll they/quoteright d dpt. headquarter burkhardt xerxes atkins govt. ebenezer lg. lhama amtrak amway fixity axmen quumbabda upjohn hrumpf\012\012Part 2: All Uppercase - 32px\012LYNX TUFT FROGS, DOLPHINS ABDUCT BY PROXY THE EVER AWKWARD KLUTZ, DUD, DUMMKOPF, JINX SNUBNOSE FILMGOER, ORPHAN SGT. RENFRUW GRUDGEK REYFUS, MD. SIKH PSYCH IF HALT TYMPANY JEWELRY SRI HEH! TWYER VS JOJO PNEU FYLFOT ALCAABA SON OF NONPLUSSED HALFBREED BUBBLY PLAYBOY GUGGENHEIM DADDY COCCYX SGRAFFITO EFFECT, VACUUM DIRNDLE IMPOSSIBLE ATTEMPT TO DISVALUE, MUZZLE THE AFGHAN CZECH CZAR AND EXNINJA, BOB BIXBY DVORAK WOOD DHURRIE SAVVY, DIZZY EYE AEON CIRCUMCISION UVULA SCRUNGY PICNIC LUXURIOUS SPECIAL TYPE CARBOHYDRATE OVOID ADZUKI KUMQUAT BOMB? AFTERGLOWS GOLD GIRL PYGMY GNOME LB. ANKHS ACME AGGROUPMENT AKMED BROUHHA TV WT. UJJAIN MS. OZ ABACUS MNEMONICS BHIKKU KHAKI BWANA AORTA EMBOLISM VIVID OWLS OFTEN KVETCH OTHERWISE, WYSIWYG DENSFORT WRIGHT YOU/quoteright VE ABSORBED RHYTHM, PUT OBSTACLE KYAKS KRIEG KERN WURST SUBJECT ENMITY EQUITY COQUET QUORUM PIQUE TZETSE HEPZIBAH SULFHYDRYL BRIEFCASE AJAX EHLER KAFKA FJORD ELFSHIP HALFDRESSED JUGFUL EGGCUP HUMMINGBIRDS SWINGDEVIL BAGPIPE LEGWORK REPROACHFUL HUNCHBACK ARCHKNAVE BAGHDAD WEJH RIJSWIJK RAJBANSI RAJPUT AJDIR OKAY WEEKDAY OBFUSCATE SUBPOENA LIEBKNECHT MARCGRAVIA ECBOLIC ARCTICWARD DICKCISSEL PINCPINC BOLDFACE MAIDKIN ADJECTIVE ADCRAFT ADMAN DWARFNESS APPLEJACK DARKBROWN KILN PALZY ALWAYS FARMLAND FLIMFLAM UNBOSSY NONLINEAL STEPBROTHER LAPDOG STOPGAP SX COUNTDOWN BASKETBALL BEAUJOLAIS VB. FLOWCHART AZTEC LAZY BOZO SYRUP TARZAN ANNOYING DYKE YUCKY HAWG GAGZHUKZ CUZCO SQUIRE WHEN HIHO MAYHEM NIETZSCHE SZASZ GUMDROP MILK EMPLOTMENT AMBIDEXTROUSLY LACQUER BYWAY ECCLESIASTES STUBCHEN HOBGOBLINS CRABMILL AQUA HAWAII BLVD. SUBQUALITY BYZANTINE EMPIRE DEBT OBVIOUS CERVANTES JEKABZEEL ANECDOTE FLICFLAC MECHANICVILLE BEDBUG COULDN/quoteright T I/quoteright VE IT/quoteright S THEY/quoteright LL THEY/quoteright D DPT. HEADQUARTER BURKHARDT XERXES ATKINS GOVT. EBENEZER LG. LHAMA AMTRAK AMWAY FIXITY AXMEN QUUMBABDA UPJOHN HRUMPF\012\012Part 3: Most Common Initial Caps - 32px\012Aaron Abraham Adam Aeneas Agfa Ahoy Aileen Akbar Alanon Americanism Anglican Aorta April Fool/quoteright s Day Aqua Lung (Tm.) Arabic Ash Wednesday Authorized Version Ave Maria Away Axel Ay Aztec Bhutan Bill Bjorn Bk Btu. Bvart Bzonga California Cb Cd Cervantes Chicago Clute City, Tx. Cmdr. Cnossus Coco Cracker State, Georgia Cs Ct. Cwacker Cyrano David Debra Dharma Diane Djakarta Dm Dnepr Doris Dudley Dwayne Dylan Dzerzhinsk Eames Ectomorph Eden Eerie Effingham, Il. Egypt Eiffel Tower Eject Ekland Elmore Entreaty Eolian Epstein Equine Erasmus Eskimo Ethiopia Europe Eva Ewan Exodus Jan van Eyck Ezra Fabian February Fhara Fifi Fjord Florida Fm France Fs Ft. Fury Fyn Gabriel Gc Gdynia Gehrig Ghana Gilligan Karl Gjellerup Gk. Glen Gm Gnosis Gp.E. Gregory Gs Gt. Br. Guinevere Gwathmey Gypsy Gzags Hebrew Hf Hg Hileah Horace Hrdlicka Hsia Hts. Hubert Hwang Hai Hyacinth Hz. Iaccoca Ibsen Iceland Idaho If Iggy Ihre Ijit Ike Iliad Immediate Innocent Ione Ipswitch Iquarus Ireland Island It Iud Ivert Iwerks Ixnay Iy Jasper Jenks Jherry Jill Jm Jn Jorge Jr. Julie Kerry Kharma Kiki Klear Koko Kruse Kusack Kylie Laboe Lb. Leslie Lhihane Llama Lorrie Lt. Lucy Lyle Madeira Mechanic Mg. Minnie Morrie Mr. Ms. Mt. Music My Nanny Nellie Nillie Novocane Null Nyack Oak Oblique Occarina Odd Oedipus Off Ogmane Ohio Oil Oj Oklahoma Olio Omni Only Oops Opera Oqu Order Ostra Ottmar Out Ovum Ow Ox Oyster Oz Parade Pd. Pepe Pfister Pg. Phil Pippi Pj Please Pneumonia Porridge Price Psalm Pt. Purple Pv Pw Pyre Qt. Quincy Radio Rd. Red Rhea Right Rj Roche Rr Rs Rt. Rural Rwanda Ryder Sacrifice Series Sgraffito Shirt Sister Skeet Slow Smore Snoop Soon Special Squire Sr St. Suzy Svelte Swiss Sy Szach Td Teach There Title Total Trust Tsena Tulip Twice Tyler Tzean Ua Udder Ue Uf Ugh Uh Ui Uk Ul Um Unkempt Uo Up Uq Ursula Use Utmost Uvula Uw Uxurious Uz\U00DFai Valerie Velour Vh Vicky Volvo Vs Water Were Where With World Wt. Wulk Wyler Xavier Xerox Xi Xylophone Yaboe Year Yipes Yo Ypsilant Ys Yu Zabar/quoteright s Zero Zhane Zizi Zorro Zu Zy Don/quoteright t I/quoteright ll I/quoteright m I/quoteright se"
 );
 classes = (
 {
@@ -9606,7 +9606,7 @@ unicode = 017B;
 },
 {
 glyphname = a;
-lastChange = "2017-11-07 09:21:38 +0000";
+lastChange = "2017-11-08 04:01:29 +0000";
 layers = (
 {
 anchors = (
@@ -12437,7 +12437,7 @@ unicode = 0111;
 },
 {
 glyphname = e;
-lastChange = "2017-11-07 09:19:30 +0000";
+lastChange = "2017-11-08 03:42:16 +0000";
 layers = (
 {
 anchors = (
@@ -13483,7 +13483,7 @@ unicode = 0119;
 },
 {
 glyphname = f;
-lastChange = "2017-11-07 09:23:06 +0000";
+lastChange = "2017-11-08 03:25:38 +0000";
 layers = (
 {
 anchors = (
@@ -14855,7 +14855,7 @@ unicode = 012F;
 },
 {
 glyphname = j;
-lastChange = "2017-11-02 09:49:25 +0000";
+lastChange = "2017-11-08 03:29:13 +0000";
 layers = (
 {
 components = (
@@ -16242,7 +16242,7 @@ unicode = 00F1;
 },
 {
 glyphname = o;
-lastChange = "2017-11-07 09:23:45 +0000";
+lastChange = "2017-11-08 04:01:45 +0000";
 layers = (
 {
 anchors = (
@@ -17754,7 +17754,7 @@ unicode = 0157;
 },
 {
 glyphname = s;
-lastChange = "2017-11-07 08:52:45 +0000";
+lastChange = "2017-11-08 03:49:36 +0000";
 layers = (
 {
 anchors = (
@@ -19591,7 +19591,7 @@ unicode = 016F;
 },
 {
 glyphname = v;
-lastChange = "2017-11-07 09:09:31 +0000";
+lastChange = "2017-11-08 03:57:16 +0000";
 layers = (
 {
 anchors = (
@@ -19674,7 +19674,7 @@ unicode = 0076;
 },
 {
 glyphname = w;
-lastChange = "2017-11-07 09:18:38 +0000";
+lastChange = "2017-11-08 03:57:21 +0000";
 layers = (
 {
 anchors = (
@@ -19929,7 +19929,7 @@ unicode = 1E81;
 },
 {
 glyphname = x;
-lastChange = "2017-11-07 09:18:22 +0000";
+lastChange = "2017-11-08 03:57:46 +0000";
 layers = (
 {
 associatedMasterId = "9C4F76E1-3798-46C8-A886-41EF97D6106F";
@@ -20202,7 +20202,7 @@ unicode = 0078;
 },
 {
 glyphname = y;
-lastChange = "2017-11-07 09:19:58 +0000";
+lastChange = "2017-11-08 04:02:21 +0000";
 layers = (
 {
 anchors = (
@@ -20447,7 +20447,7 @@ unicode = 1EF3;
 },
 {
 glyphname = z;
-lastChange = "2017-11-07 09:02:16 +0000";
+lastChange = "2017-11-08 03:57:59 +0000";
 layers = (
 {
 anchors = (
@@ -25475,7 +25475,7 @@ rightMetricsKey = foursuperior;
 },
 {
 glyphname = asterisk;
-lastChange = "2017-11-08 02:37:12 +0000";
+lastChange = "2017-11-08 03:23:52 +0000";
 layers = (
 {
 layerId = "9C4F76E1-3798-46C8-A886-41EF97D6106F";
@@ -26184,7 +26184,7 @@ unicode = 003A;
 },
 {
 glyphname = comma;
-lastChange = "2017-11-08 02:54:19 +0000";
+lastChange = "2017-11-08 03:19:50 +0000";
 layers = (
 {
 layerId = "9C4F76E1-3798-46C8-A886-41EF97D6106F";
@@ -26660,7 +26660,7 @@ unicode = 0023;
 },
 {
 glyphname = period;
-lastChange = "2017-11-08 02:53:55 +0000";
+lastChange = "2017-11-08 03:19:04 +0000";
 layers = (
 {
 layerId = "9C4F76E1-3798-46C8-A886-41EF97D6106F";
@@ -26763,7 +26763,7 @@ unicode = 002E;
 },
 {
 glyphname = question;
-lastChange = "2017-11-02 06:08:47 +0000";
+lastChange = "2017-11-08 03:23:38 +0000";
 layers = (
 {
 background = {
@@ -26934,7 +26934,7 @@ unicode = 00BF;
 },
 {
 glyphname = quotedbl;
-lastChange = "2017-11-08 02:32:16 +0000";
+lastChange = "2017-11-08 03:26:05 +0000";
 layers = (
 {
 background = {
@@ -27109,7 +27109,7 @@ unicode = 0022;
 },
 {
 glyphname = quotesingle;
-lastChange = "2017-11-08 02:34:58 +0000";
+lastChange = "2017-11-08 03:25:50 +0000";
 layers = (
 {
 layerId = "9C4F76E1-3798-46C8-A886-41EF97D6106F";
@@ -27312,7 +27312,7 @@ unicode = 007B;
 },
 {
 glyphname = braceright;
-lastChange = "2017-11-02 06:13:47 +0000";
+lastChange = "2017-11-08 03:29:02 +0000";
 layers = (
 {
 layerId = "9C4F76E1-3798-46C8-A886-41EF97D6106F";
@@ -27572,7 +27572,7 @@ unicode = 005B;
 },
 {
 glyphname = bracketright;
-lastChange = "2017-11-02 06:14:11 +0000";
+lastChange = "2017-11-08 03:28:37 +0000";
 layers = (
 {
 layerId = "9C4F76E1-3798-46C8-A886-41EF97D6106F";
@@ -27850,7 +27850,7 @@ unicode = 0028;
 },
 {
 glyphname = parenright;
-lastChange = "2017-11-02 06:14:48 +0000";
+lastChange = "2017-11-08 03:28:14 +0000";
 layers = (
 {
 layerId = "9C4F76E1-3798-46C8-A886-41EF97D6106F";
@@ -27989,7 +27989,7 @@ unicode = 2013;
 },
 {
 glyphname = hyphen;
-lastChange = "2017-11-08 03:04:58 +0000";
+lastChange = "2017-11-08 03:30:31 +0000";
 layers = (
 {
 layerId = "9C4F76E1-3798-46C8-A886-41EF97D6106F";
@@ -28366,7 +28366,7 @@ unicode = 201E;
 },
 {
 glyphname = quotedblleft;
-lastChange = "2017-11-08 02:19:27 +0000";
+lastChange = "2017-11-08 03:27:21 +0000";
 layers = (
 {
 components = (
@@ -28416,7 +28416,7 @@ unicode = 201C;
 },
 {
 glyphname = quotedblright;
-lastChange = "2017-11-08 02:21:46 +0000";
+lastChange = "2017-11-08 03:26:48 +0000";
 layers = (
 {
 components = (
@@ -39570,6 +39570,11 @@ quoteright = -5;
 asterisk = -30;
 period = -38;
 comma = -18;
+"@MMK_R_s" = -5;
+v = -15;
+w = -8;
+x = -18;
+z = -12;
 };
 X = {
 "@MMK_R_O" = -20;
@@ -39636,6 +39641,11 @@ comma = -52;
 };
 S = {
 Y = -25;
+v = -10;
+w = -5;
+x = -5;
+y = -5;
+z = -5;
 };
 B = {
 T = -5;
@@ -39668,10 +39678,14 @@ w = -8;
 v = {
 a = -20;
 "@MMK_R_o" = -12;
+period = -42;
+comma = -40;
 };
 w = {
 a = -20;
 "@MMK_R_o" = -12;
+period = -30;
+comma = -30;
 };
 "@MMK_L_o" = {
 v = -12;
@@ -39680,6 +39694,9 @@ x = -25;
 y = -8;
 f = -5;
 "@MMK_R_t" = -5;
+period = -25;
+comma = -25;
+z = -15;
 };
 e = {
 v = -5;
@@ -39690,19 +39707,36 @@ y = -2;
 };
 x = {
 "@MMK_R_o" = -25;
+"@MMK_R_hyphen" = -35;
 };
 y = {
 "@MMK_R_o" = -18;
+period = -40;
+comma = -35;
 };
 k = {
 "@MMK_R_o" = -20;
+"@MMK_R_hyphen" = -42;
 };
 r = {
 a = -25;
 "@MMK_R_o" = -18;
+period = -35;
+comma = -35;
+"@MMK_R_hyphen" = -28;
 };
 f = {
 "@MMK_R_o" = -22;
+period = -38;
+comma = -38;
+asterisk = 28;
+question = 35;
+parenright = 48;
+bracketright = 35;
+braceright = 45;
+"@MMK_R_quotesingle" = 38;
+"@MMK_R_quoteright" = 40;
+"@MMK_R_quoteleft" = 40;
 };
 "@MMK_L_t" = {
 "@MMK_R_o" = -5;
@@ -39716,6 +39750,7 @@ quoteleft = {
 "@MMK_L_quoteright" = {
 "@MMK_R_A" = -75;
 "@MMK_R_O" = -35;
+"@MMK_R_s" = -20;
 };
 "@MMK_L_quotesingle" = {
 "@MMK_R_A" = -60;
@@ -39732,6 +39767,11 @@ U = -22;
 V = -60;
 W = -40;
 Y = -82;
+f = -30;
+"@MMK_R_o" = -25;
+v = -42;
+w = -30;
+y = -35;
 };
 comma = {
 "@MMK_R_O" = -28;
@@ -39740,9 +39780,17 @@ U = -8;
 V = -55;
 W = -35;
 Y = -65;
+f = -30;
+"@MMK_R_o" = -25;
+v = -40;
+w = -30;
+y = -32;
 };
 Z = {
 "@MMK_R_hyphen" = -65;
+a = -15;
+"@MMK_R_o" = -18;
+y = -18;
 };
 "@MMK_L_hyphen" = {
 X = -55;
@@ -39751,12 +39799,34 @@ Z = -32;
 T = -45;
 V = -45;
 W = -18;
+x = -36;
 };
 questiondown = {
 J = 30;
+j = 50;
 };
 exclamdown = {
 J = 25;
+};
+parenleft = {
+f = 5;
+j = 60;
+};
+braceleft = {
+f = 5;
+j = 30;
+};
+bracketleft = {
+f = 5;
+j = 50;
+};
+"@MMK_L_i" = {
+parenright = 35;
+bracketright = 25;
+braceright = 35;
+};
+z = {
+"@MMK_R_o" = -15;
 };
 };
 };
