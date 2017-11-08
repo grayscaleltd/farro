@@ -2,7 +2,8 @@
 .appVersion = "1075";
 DisplayStrings = (
 "pyszna bu/lslash ka\012ze s/lslash onecznikiem",
-"HHATAHH HHT\U00C6HH\012HHAUAHH HHU\U00C6HH\012HHAVAHH HHV\U00C6HH\012HHAWAHH HHW\U00C6HH\012HHAYAHH HHY\U00C6HH\012HHAOAHH HHAQAHH HHACHH HHAGHH HHDAHH\012HHO\U00C6HH HHD\U00C6HH HHQ\U00C6HH\012HHOTOHH HHQTQHH HHDTHH HHTCHH HHTGHH\012HHOVOHH HHQVQHH HHDVHH HHVCHH HHVGHH\012HHOWOHH HHQWQHH HHDWHH HHWCHH HHWGHH\012HHOXOH\U00E5H HHQXQHH HHDXHH HHXCHH HHX\U00E5\U00E5GHH \012HHOYOHH HHQYQHH HHDYHH HHYCHH HHYGHH\012HHKOHH HHKCHH HHKGHH HHKQHH\012HHLOHH HHLCHH HHLGHH HHLQHH\012HHEOHH HHECHH HHEGHH HHEQHH\012HHFOHH HHFCHH HHFGHH HHFQHH \012HHFAHH HHF\U00C6HH \012HHPAHH HHP\U00C6HH           \012HHSYHH HHYSHH\012HHBTHH HHLTHH HHRTHH\012HHBVHH HHLVHH HHPVHH HHRVHH HHGVHH\012HHBWHH HHLWHH HHPWHH HHRWHH HHGWHH\012HHBXHH HHLXHH HHPXHH HHRXHH HHGXHH\012HHBYHH HHLYHH HHPYHH HHRYHH HHGYHH\012HHFJHH HHPJHH HHTJHH HHVJHH HHWJHH HHYJHH\012HHLUHH HHRUHH\012HHAAHH HHLAHH HHRAHH HHKAHH\012\012Fannon Kannon Pannon Tannon Vannon Wannon Yannon\012Fcnnon Kcnnon Pcnnon Tcnnon Vcnnon Wcnnon Xcnnon Ycnnon\012Fdnnon Kdnnon Pdnnon Tdnnon Vdnnon Wdnnon Xdnnon Ydnnon\012Fennon Kennon Pennon Tennon Vennon Wennon Xennon Yennon   \012Fqnnon Kqnnon Pqnnon Tqnnon Vqnnon Wqnnon Xqnnon Yqnnon   \012Fonnon Konnon Ponnon Tonnon Vonnon Wonnon Xonnon Yonnon\012Fgnnon Kgnnon Pgnnon Tgnnon Vgnnon Wgnnon Xgnnon Ygnnon\012Vinnon Winnon Yinnon\012Tmnnon Vmnnon Wmnnon Ymnnon\012Tnnnon Vnnnon Wnnnon Ynnnon\012Tpnnon Vpnnon Wpnnon Ypnnon\012Trnnon Vrnnon Wrnnon Yrnnon\012Tsnnon Vsnnon Wsnnon Ysnnon\012Atnnon Ytnnon\012Funnon Kunnon Tunnon Vunnon Wunnon Yunnon Xunnon\012Avnnon Kvnnon Lvnnon Tvnnon Vvnnon Yvnnon Xvnnon\012Awnnon Kwnnon Lwnnon Twnnon Vwnnon Ywnnon Xwnnon\012Txnnon Yxnnon\012Aynnon Kynnon Lynnon Tynnon Vynnon Wynnon Yynnon Xynnon\012Tznnon Yznnon\012\012nonavnon nonvanon nonawnon nonwanon\012nonovonon noncvcnon nonevenon nonbvdnon nonpvqnon\012nonowonon noncwcnon nonewenon nonbwdnon nonpwqnon\012nonoxonon noncxcnon nonexenon nonbxdnon nonpxqnon\012nonoyonon noncycnon noneyenon nonbydnon nonpyqnon\012nonkonon nonkcnon nonkenon nonkdnon nonkqnon\012nonranon nonronon nonrcnon nonrenon nonrdnon nonrqnon\012nonofonon noncfcnon nonefenon nonbfdnon nonpfqnon\012nonotonon nonctcnon nonetenon nonbtdnon nonptqnon\012\012HH/quoteleft AHH HHA/quoteright HH HH/quoteright AHH HH/quoteleft OHH HHO/quoteright HH HH/quoteright OHH HHL/quoteright HH\012HH/quotedblleft AHH HHA/quotedblright HH HH/quotedblright AHH HH/quotedblleft OHH HHO/quotedblright HH HH/quotedblright OHH HHL/quotedblright HH\012HH'A'HH HH'O'HH HHL'HH HH\"A\"HH HH\"O\"HH HHL\"HH\012HH*A*HH HH*O*HH HHL*HH\012HH.O.HH HH.T.HH HH.U.HH HH.V.HH HH.W.HH HH.Y.HH\012HHD.HH HHF.HH HHP.HH\012HH,O,HH HH,T,HH HH,U,HH HH,V,HH HH,W,HH HH,Y,HH\012HHD,HH HHF,HH HHP,HH\012HHK-HH HHL-HH\012HH-T-HH HH-V-HH HH-W-HH HH-X-HH HH-Y-HH HH-Z-HH\012HHT:HH HHV:HH HHW:HH HHY:HH\012HHT;HH HHV;HH HHW;HH HHY;HH\012HH\U00BFJHH HH\U00A1JHH\012\012nn.f.nn nn.o.nn nn.v.nn nn.w.nn nn.y.nn nnr.nn\012nn,f,nn nn,o,nn nn,v,nn nn,w,nn nn,y,nn nnr,nn\012nonf*non nonf?non non(f)non non[f]non non{f}non\012nonf'non nonf\"non nonf/quoteright non nonf/quotedblright non nonf/quoteleft non nonf/quotedblleft non\012non\U00BFjnon non(j)non non[j]non non{j}non\012nonk-non nonr-non non-x-non\012non/quoteright snon"
+"HHATAHH HHT\U00C6HH\012HHAUAHH HHU\U00C6HH\012HHAVAHH HHV\U00C6HH\012HHAWAHH HHW\U00C6HH\012HHAYAHH HHY\U00C6HH\012HHAOAHH HHAQAHH HHACHH HHAGHH HHDAHH\012HHO\U00C6HH HHD\U00C6HH HHQ\U00C6HH\012HHOTOHH HHQTQHH HHDTHH HHTCHH HHTGHH\012HHOVOHH HHQVQHH HHDVHH HHVCHH HHVGHH\012HHOWOHH HHQWQHH HHDWHH HHWCHH HHWGHH\012HHOXOH\U00E5H HHQXQHH HHDXHH HHXCHH HHX\U00E5\U00E5GHH \012HHOYOHH HHQYQHH HHDYHH HHYCHH HHYGHH\012HHKOHH HHKCHH HHKGHH HHKQHH\012HHLOHH HHLCHH HHLGHH HHLQHH\012HHEOHH HHECHH HHEGHH HHEQHH\012HHFOHH HHFCHH HHFGHH HHFQHH \012HHFAHH HHF\U00C6HH \012HHPAHH HHP\U00C6HH           \012HHSYHH HHYSHH\012HHBTHH HHLTHH HHRTHH\012HHBVHH HHLVHH HHPVHH HHRVHH HHGVHH\012HHBWHH HHLWHH HHPWHH HHRWHH HHGWHH\012HHBXHH HHLXHH HHPXHH HHRXHH HHGXHH\012HHBYHH HHLYHH HHPYHH HHRYHH HHGYHH\012HHFJHH HHPJHH HHTJHH HHVJHH HHWJHH HHYJHH\012HHLUHH HHRUHH\012HHAAHH HHLAHH HHRAHH HHKAHH\012\012Fannon Kannon Pannon Tannon Vannon Wannon Yannon\012Fcnnon Kcnnon Pcnnon Tcnnon Vcnnon Wcnnon Xcnnon Ycnnon\012Fdnnon Kdnnon Pdnnon Tdnnon Vdnnon Wdnnon Xdnnon Ydnnon\012Fennon Kennon Pennon Tennon Vennon Wennon Xennon Yennon   \012Fqnnon Kqnnon Pqnnon Tqnnon Vqnnon Wqnnon Xqnnon Yqnnon   \012Fonnon Konnon Ponnon Tonnon Vonnon Wonnon Xonnon Yonnon\012Fgnnon Kgnnon Pgnnon Tgnnon Vgnnon Wgnnon Xgnnon Ygnnon\012Vinnon Winnon Yinnon\012Tmnnon Vmnnon Wmnnon Ymnnon\012Tnnnon Vnnnon Wnnnon Ynnnon\012Tpnnon Vpnnon Wpnnon Ypnnon\012Trnnon Vrnnon Wrnnon Yrnnon\012Tsnnon Vsnnon Wsnnon Ysnnon\012Atnnon Ytnnon\012Funnon Kunnon Tunnon Vunnon Wunnon Yunnon Xunnon\012Avnnon Kvnnon Lvnnon Tvnnon Vvnnon Yvnnon Xvnnon\012Awnnon Kwnnon Lwnnon Twnnon Vwnnon Ywnnon Xwnnon\012Txnnon Yxnnon\012Aynnon Kynnon Lynnon Tynnon Vynnon Wynnon Yynnon Xynnon\012Tznnon Yznnon\012\012nonavnon nonvanon nonawnon nonwanon\012nonovonon noncvcnon nonevenon nonbvdnon nonpvqnon\012nonowonon noncwcnon nonewenon nonbwdnon nonpwqnon\012nonoxonon noncxcnon nonexenon nonbxdnon nonpxqnon\012nonoyonon noncycnon noneyenon nonbydnon nonpyqnon\012nonkonon nonkcnon nonkenon nonkdnon nonkqnon\012nonranon nonronon nonrcnon nonrenon nonrdnon nonrqnon\012nonofonon noncfcnon nonefenon nonbfdnon nonpfqnon\012nonotonon nonctcnon nonetenon nonbtdnon nonptqnon\012\012HH/quoteleft AHH HHA/quoteright HH HH/quoteright AHH HH/quoteleft OHH HHO/quoteright HH HH/quoteright OHH HHL/quoteright HH\012HH/quotedblleft AHH HHA/quotedblright HH HH/quotedblright AHH HH/quotedblleft OHH HHO/quotedblright HH HH/quotedblright OHH HHL/quotedblright HH\012HH'A'HH HH'O'HH HHL'HH HH\"A\"HH HH\"O\"HH HHL\"HH\012HH*A*HH HH*O*HH HHL*HH\012HH.O.HH HH.T.HH HH.U.HH HH.V.HH HH.W.HH HH.Y.HH\012HHD.HH HHF.HH HHP.HH\012HH,O,HH HH,T,HH HH,U,HH HH,V,HH HH,W,HH HH,Y,HH\012HHD,HH HHF,HH HHP,HH\012HHK-HH HHL-HH\012HH-T-HH HH-V-HH HH-W-HH HH-X-HH HH-Y-HH HH-Z-HH\012HHT:HH HHV:HH HHW:HH HHY:HH\012HHT;HH HHV;HH HHW;HH HHY;HH\012HH\U00BFJHH HH\U00A1JHH\012\012-/endash/emdash \012\012nn.f.nn nn.o.nn nn.v.nn nn.w.nn nn.y.nn nnr.nn\012nn,f,nn nn,o,nn nn,v,nn nn,w,nn nn,y,nn nnr,nn\012nonf*non nonf?non non(f)non non[f]non non{f}non\012nonf'non nonf\"non nonf/quoteright non nonf/quotedblright non nonf/quoteleft non nonf/quotedblleft non\012non\U00BFjnon non(j)non non[j]non non{j}non\012nonk-non nonr-non non-x-non\012non/quoteright snon",
+"/quotedblright/quotedblleft \"'\0122'11\"\012nn/Placeholder nn/Placeholder oo/Placeholder oo\012HH/Placeholder HH/Placeholder OO/Placeholder OO"
 );
 classes = (
 {
@@ -247,7 +248,7 @@ xHeight = 600;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2017-11-07 07:53:34 +0000";
+lastChange = "2017-11-08 02:36:39 +0000";
 layers = (
 {
 anchors = (
@@ -3042,7 +3043,7 @@ unicode = 0120;
 },
 {
 glyphname = H;
-lastChange = "2017-11-02 02:29:11 +0000";
+lastChange = "2017-11-08 03:03:33 +0000";
 layers = (
 {
 anchors = (
@@ -3564,7 +3565,7 @@ unicode = 012E;
 },
 {
 glyphname = J;
-lastChange = "2017-11-07 07:52:17 +0000";
+lastChange = "2017-11-08 03:07:38 +0000";
 layers = (
 {
 anchors = (
@@ -4827,7 +4828,7 @@ unicode = 00D1;
 },
 {
 glyphname = O;
-lastChange = "2017-11-07 07:44:13 +0000";
+lastChange = "2017-11-08 02:47:20 +0000";
 layers = (
 {
 anchors = (
@@ -5733,7 +5734,7 @@ unicode = 0152;
 },
 {
 glyphname = P;
-lastChange = "2017-11-02 05:07:28 +0000";
+lastChange = "2017-11-08 02:46:30 +0000";
 layers = (
 {
 anchors = (
@@ -6500,7 +6501,7 @@ unicode = 0052;
 },
 {
 glyphname = Racute;
-lastChange = "2017-11-02 06:51:51 +0000";
+lastChange = "2017-11-08 02:22:29 +0000";
 layers = (
 {
 components = (
@@ -6509,11 +6510,11 @@ name = R;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 203, 150}";
+transform = "{1, 0, 0, 1, 205, 150}";
 }
 );
 layerId = "3B8C7C8F-80C4-4490-BC4D-FB44BC992E9B";
-width = 664;
+width = 666;
 },
 {
 components = (
@@ -6533,7 +6534,7 @@ unicode = 0154;
 },
 {
 glyphname = Rcaron;
-lastChange = "2017-11-02 06:51:51 +0000";
+lastChange = "2017-11-08 02:22:29 +0000";
 layers = (
 {
 components = (
@@ -6542,11 +6543,11 @@ name = R;
 },
 {
 name = caroncomb;
-transform = "{1, 0, 0, 1, 91, 150}";
+transform = "{1, 0, 0, 1, 93, 150}";
 }
 );
 layerId = "3B8C7C8F-80C4-4490-BC4D-FB44BC992E9B";
-width = 664;
+width = 666;
 },
 {
 components = (
@@ -6566,7 +6567,7 @@ unicode = 0158;
 },
 {
 glyphname = Rcommaaccent;
-lastChange = "2017-11-02 06:51:51 +0000";
+lastChange = "2017-11-08 02:22:29 +0000";
 layers = (
 {
 components = (
@@ -6588,11 +6589,11 @@ name = R;
 },
 {
 name = commaaccentcomb;
-transform = "{1, 0, 0, 1, 208, 0}";
+transform = "{1, 0, 0, 1, 210, 0}";
 }
 );
 layerId = "3B8C7C8F-80C4-4490-BC4D-FB44BC992E9B";
-width = 664;
+width = 666;
 }
 );
 unicode = 0156;
@@ -7354,7 +7355,7 @@ unicode = 1E9E;
 },
 {
 glyphname = T;
-lastChange = "2017-11-07 07:47:18 +0000";
+lastChange = "2017-11-08 02:55:24 +0000";
 layers = (
 {
 anchors = (
@@ -7633,7 +7634,7 @@ unicode = 021A;
 },
 {
 glyphname = U;
-lastChange = "2017-11-07 07:52:38 +0000";
+lastChange = "2017-11-08 02:51:46 +0000";
 layers = (
 {
 anchors = (
@@ -8151,7 +8152,7 @@ unicode = 016E;
 },
 {
 glyphname = V;
-lastChange = "2017-11-07 08:54:17 +0000";
+lastChange = "2017-11-08 02:55:50 +0000";
 layers = (
 {
 anchors = (
@@ -8354,7 +8355,7 @@ unicode = 0056;
 },
 {
 glyphname = W;
-lastChange = "2017-11-07 07:49:06 +0000";
+lastChange = "2017-11-08 02:56:06 +0000";
 layers = (
 {
 anchors = (
@@ -8836,7 +8837,7 @@ unicode = 1E80;
 },
 {
 glyphname = X;
-lastChange = "2017-11-07 07:49:39 +0000";
+lastChange = "2017-11-08 02:56:40 +0000";
 layers = (
 {
 anchors = (
@@ -9069,7 +9070,7 @@ unicode = 0058;
 },
 {
 glyphname = Y;
-lastChange = "2017-11-07 07:50:46 +0000";
+lastChange = "2017-11-08 02:57:18 +0000";
 layers = (
 {
 anchors = (
@@ -9314,7 +9315,7 @@ unicode = 1EF2;
 },
 {
 glyphname = Z;
-lastChange = "2017-11-02 05:12:23 +0000";
+lastChange = "2017-11-08 02:58:28 +0000";
 layers = (
 {
 anchors = (
@@ -25474,7 +25475,7 @@ rightMetricsKey = foursuperior;
 },
 {
 glyphname = asterisk;
-lastChange = "2017-11-02 06:02:05 +0000";
+lastChange = "2017-11-08 02:37:12 +0000";
 layers = (
 {
 layerId = "9C4F76E1-3798-46C8-A886-41EF97D6106F";
@@ -26106,7 +26107,7 @@ width = 0;
 },
 {
 glyphname = colon;
-lastChange = "2017-11-02 06:10:25 +0000";
+lastChange = "2017-11-08 03:04:15 +0000";
 layers = (
 {
 components = (
@@ -26183,7 +26184,7 @@ unicode = 003A;
 },
 {
 glyphname = comma;
-lastChange = "2017-11-02 06:04:11 +0000";
+lastChange = "2017-11-08 02:54:19 +0000";
 layers = (
 {
 layerId = "9C4F76E1-3798-46C8-A886-41EF97D6106F";
@@ -26659,7 +26660,7 @@ unicode = 0023;
 },
 {
 glyphname = period;
-lastChange = "2017-11-02 06:07:05 +0000";
+lastChange = "2017-11-08 02:53:55 +0000";
 layers = (
 {
 layerId = "9C4F76E1-3798-46C8-A886-41EF97D6106F";
@@ -26933,100 +26934,182 @@ unicode = 00BF;
 },
 {
 glyphname = quotedbl;
-lastChange = "2017-11-02 06:09:32 +0000";
+lastChange = "2017-11-08 02:32:16 +0000";
 layers = (
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"137 503 LINE",
+"157 558 OFFCURVE",
+"177 668 OFFCURVE",
+"177 699 CURVE SMOOTH",
+"177 734 OFFCURVE",
+"147 756 OFFCURVE",
+"111 756 CURVE SMOOTH",
+"75 756 OFFCURVE",
+"45 734 OFFCURVE",
+"45 699 CURVE SMOOTH",
+"45 668 OFFCURVE",
+"65 558 OFFCURVE",
+"85 503 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"321 503 LINE",
+"341 558 OFFCURVE",
+"361 668 OFFCURVE",
+"361 699 CURVE SMOOTH",
+"361 734 OFFCURVE",
+"331 756 OFFCURVE",
+"295 756 CURVE SMOOTH",
+"259 756 OFFCURVE",
+"229 734 OFFCURVE",
+"229 699 CURVE SMOOTH",
+"229 668 OFFCURVE",
+"249 558 OFFCURVE",
+"269 503 CURVE"
+);
+}
+);
+};
 layerId = "9C4F76E1-3798-46C8-A886-41EF97D6106F";
 paths = (
 {
 closed = 1;
 nodes = (
-"110 503 LINE",
-"130 558 OFFCURVE",
-"150 668 OFFCURVE",
-"150 699 CURVE SMOOTH",
-"150 734 OFFCURVE",
-"120 756 OFFCURVE",
-"84 756 CURVE SMOOTH",
-"48 756 OFFCURVE",
-"18 734 OFFCURVE",
-"18 699 CURVE SMOOTH",
-"18 668 OFFCURVE",
-"38 558 OFFCURVE",
-"58 503 CURVE"
+"138 590 LINE",
+"159 647 OFFCURVE",
+"180 763 OFFCURVE",
+"180 795 CURVE SMOOTH",
+"180 833 OFFCURVE",
+"149 856 OFFCURVE",
+"111 855 CURVE SMOOTH",
+"73 854 OFFCURVE",
+"42 833 OFFCURVE",
+"42 795 CURVE SMOOTH",
+"42 763 OFFCURVE",
+"63 647 OFFCURVE",
+"84 590 CURVE"
 );
 },
 {
 closed = 1;
 nodes = (
-"294 503 LINE",
-"314 558 OFFCURVE",
-"334 668 OFFCURVE",
-"334 699 CURVE SMOOTH",
-"334 734 OFFCURVE",
-"304 756 OFFCURVE",
-"268 756 CURVE SMOOTH",
-"232 756 OFFCURVE",
-"202 734 OFFCURVE",
-"202 699 CURVE SMOOTH",
-"202 668 OFFCURVE",
-"222 558 OFFCURVE",
-"242 503 CURVE"
+"328 590 LINE",
+"349 647 OFFCURVE",
+"370 763 OFFCURVE",
+"370 795 CURVE SMOOTH",
+"370 833 OFFCURVE",
+"339 856 OFFCURVE",
+"301 855 CURVE SMOOTH",
+"263 854 OFFCURVE",
+"232 833 OFFCURVE",
+"232 795 CURVE SMOOTH",
+"232 763 OFFCURVE",
+"253 647 OFFCURVE",
+"274 590 CURVE"
 );
 }
 );
-width = 352;
+width = 412;
 },
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"136 560 LINE",
+"152 619 OFFCURVE",
+"163 682 OFFCURVE",
+"163 711 CURVE SMOOTH",
+"163 740 OFFCURVE",
+"148 753 OFFCURVE",
+"122 753 CURVE SMOOTH",
+"95 753 OFFCURVE",
+"81 740 OFFCURVE",
+"81 711 CURVE SMOOTH",
+"81 682 OFFCURVE",
+"92 619 OFFCURVE",
+"108 560 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"273 560 LINE",
+"289 619 OFFCURVE",
+"300 682 OFFCURVE",
+"300 711 CURVE SMOOTH",
+"300 740 OFFCURVE",
+"285 753 OFFCURVE",
+"259 753 CURVE SMOOTH",
+"232 753 OFFCURVE",
+"218 740 OFFCURVE",
+"218 711 CURVE SMOOTH",
+"218 682 OFFCURVE",
+"229 619 OFFCURVE",
+"245 560 CURVE"
+);
+}
+);
+};
 layerId = "3B8C7C8F-80C4-4490-BC4D-FB44BC992E9B";
 paths = (
 {
 closed = 1;
 nodes = (
-"130 560 LINE",
-"146 619 OFFCURVE",
-"157 682 OFFCURVE",
-"157 711 CURVE SMOOTH",
-"157 740 OFFCURVE",
-"142 753 OFFCURVE",
-"116 753 CURVE SMOOTH",
-"89 753 OFFCURVE",
-"75 740 OFFCURVE",
-"75 711 CURVE SMOOTH",
-"75 682 OFFCURVE",
-"86 619 OFFCURVE",
-"102 560 CURVE"
+"138 610 LINE",
+"157 678 OFFCURVE",
+"169 751 OFFCURVE",
+"169 785 CURVE SMOOTH",
+"169 818 OFFCURVE",
+"152 833 OFFCURVE",
+"122 833 CURVE SMOOTH",
+"91 833 OFFCURVE",
+"75 818 OFFCURVE",
+"75 785 CURVE SMOOTH",
+"75 751 OFFCURVE",
+"87 678 OFFCURVE",
+"106 610 CURVE"
 );
 },
 {
 closed = 1;
 nodes = (
-"267 560 LINE",
-"283 619 OFFCURVE",
-"294 682 OFFCURVE",
-"294 711 CURVE SMOOTH",
-"294 740 OFFCURVE",
-"279 753 OFFCURVE",
-"253 753 CURVE SMOOTH",
-"226 753 OFFCURVE",
-"212 740 OFFCURVE",
-"212 711 CURVE SMOOTH",
-"212 682 OFFCURVE",
-"223 619 OFFCURVE",
-"239 560 CURVE"
+"306 610 LINE",
+"325 678 OFFCURVE",
+"337 751 OFFCURVE",
+"337 785 CURVE SMOOTH",
+"337 818 OFFCURVE",
+"320 833 OFFCURVE",
+"290 833 CURVE SMOOTH",
+"259 833 OFFCURVE",
+"243 818 OFFCURVE",
+"243 785 CURVE SMOOTH",
+"243 751 OFFCURVE",
+"255 678 OFFCURVE",
+"274 610 CURVE"
 );
 }
 );
-width = 369;
+width = 412;
 }
 );
+leftKerningGroup = quotesingle;
 leftMetricsKey = quotesingle;
+rightKerningGroup = quotesingle;
 rightMetricsKey = quotesingle;
 unicode = 0022;
 },
 {
 glyphname = quotesingle;
-lastChange = "2017-11-02 06:09:27 +0000";
+lastChange = "2017-11-08 02:34:58 +0000";
 layers = (
 {
 layerId = "9C4F76E1-3798-46C8-A886-41EF97D6106F";
@@ -27034,23 +27117,23 @@ paths = (
 {
 closed = 1;
 nodes = (
-"110 503 LINE",
-"130 558 OFFCURVE",
-"150 668 OFFCURVE",
-"150 699 CURVE SMOOTH",
-"150 734 OFFCURVE",
-"120 756 OFFCURVE",
-"84 756 CURVE SMOOTH",
-"48 756 OFFCURVE",
-"18 734 OFFCURVE",
-"18 699 CURVE SMOOTH",
-"18 668 OFFCURVE",
-"38 558 OFFCURVE",
-"58 503 CURVE"
+"138 590 LINE",
+"159 647 OFFCURVE",
+"180 763 OFFCURVE",
+"180 795 CURVE SMOOTH",
+"180 833 OFFCURVE",
+"149 856 OFFCURVE",
+"111 855 CURVE SMOOTH",
+"73 854 OFFCURVE",
+"42 833 OFFCURVE",
+"42 795 CURVE SMOOTH",
+"42 763 OFFCURVE",
+"63 647 OFFCURVE",
+"84 590 CURVE"
 );
 }
 );
-width = 168;
+width = 222;
 },
 {
 layerId = "3B8C7C8F-80C4-4490-BC4D-FB44BC992E9B";
@@ -27058,30 +27141,32 @@ paths = (
 {
 closed = 1;
 nodes = (
-"130 560 LINE",
-"146 619 OFFCURVE",
-"157 682 OFFCURVE",
-"157 711 CURVE SMOOTH",
-"157 740 OFFCURVE",
-"142 753 OFFCURVE",
-"116 753 CURVE SMOOTH",
-"89 753 OFFCURVE",
-"75 740 OFFCURVE",
-"75 711 CURVE SMOOTH",
-"75 682 OFFCURVE",
-"86 619 OFFCURVE",
-"102 560 CURVE"
+"138 610 LINE",
+"157 678 OFFCURVE",
+"169 751 OFFCURVE",
+"169 785 CURVE SMOOTH",
+"169 818 OFFCURVE",
+"152 833 OFFCURVE",
+"122 833 CURVE SMOOTH",
+"91 833 OFFCURVE",
+"75 818 OFFCURVE",
+"75 785 CURVE SMOOTH",
+"75 751 OFFCURVE",
+"87 678 OFFCURVE",
+"106 610 CURVE"
 );
 }
 );
-width = 232;
+width = 244;
 }
 );
+leftKerningGroup = quotesingle;
+rightKerningGroup = quotesingle;
 unicode = 0027;
 },
 {
 glyphname = semicolon;
-lastChange = "2017-11-02 06:10:09 +0000";
+lastChange = "2017-11-08 03:04:00 +0000";
 layers = (
 {
 components = (
@@ -27826,7 +27911,7 @@ unicode = 0029;
 },
 {
 glyphname = emdash;
-lastChange = "2017-11-02 06:16:15 +0000";
+lastChange = "2017-11-08 03:05:09 +0000";
 layers = (
 {
 layerId = "9C4F76E1-3798-46C8-A886-41EF97D6106F";
@@ -27859,11 +27944,13 @@ nodes = (
 width = 870;
 }
 );
+leftKerningGroup = hyphen;
+rightKerningGroup = hyphen;
 unicode = 2014;
 },
 {
 glyphname = endash;
-lastChange = "2017-11-02 06:16:10 +0000";
+lastChange = "2017-11-08 03:05:04 +0000";
 layers = (
 {
 layerId = "9C4F76E1-3798-46C8-A886-41EF97D6106F";
@@ -27896,11 +27983,13 @@ nodes = (
 width = 670;
 }
 );
+leftKerningGroup = hyphen;
+rightKerningGroup = hyphen;
 unicode = 2013;
 },
 {
 glyphname = hyphen;
-lastChange = "2017-11-02 06:16:40 +0000";
+lastChange = "2017-11-08 03:04:58 +0000";
 layers = (
 {
 layerId = "9C4F76E1-3798-46C8-A886-41EF97D6106F";
@@ -27933,6 +28022,8 @@ nodes = (
 width = 468;
 }
 );
+leftKerningGroup = hyphen;
+rightKerningGroup = hyphen;
 unicode = 002D;
 },
 {
@@ -28275,7 +28366,7 @@ unicode = 201E;
 },
 {
 glyphname = quotedblleft;
-lastChange = "2017-11-02 06:56:35 +0000";
+lastChange = "2017-11-08 02:19:27 +0000";
 layers = (
 {
 components = (
@@ -28317,13 +28408,15 @@ layerId = "3B8C7C8F-80C4-4490-BC4D-FB44BC992E9B";
 width = 510;
 }
 );
+leftKerningGroup = quoteleft;
 leftMetricsKey = quoteleft;
+rightKerningGroup = quoteleft;
 rightMetricsKey = quoteleft;
 unicode = 201C;
 },
 {
 glyphname = quotedblright;
-lastChange = "2017-11-02 06:54:36 +0000";
+lastChange = "2017-11-08 02:21:46 +0000";
 layers = (
 {
 components = (
@@ -28364,13 +28457,15 @@ layerId = "3B8C7C8F-80C4-4490-BC4D-FB44BC992E9B";
 width = 510;
 }
 );
+leftKerningGroup = quoteright;
 leftMetricsKey = quoteright;
+rightKerningGroup = quoteright;
 rightMetricsKey = quoteright;
 unicode = 201D;
 },
 {
 glyphname = quoteleft;
-lastChange = "2017-11-02 06:19:14 +0000";
+lastChange = "2017-11-08 02:19:19 +0000";
 layers = (
 {
 components = (
@@ -28433,11 +28528,13 @@ layerId = "3B8C7C8F-80C4-4490-BC4D-FB44BC992E9B";
 width = 284;
 }
 );
+leftKerningGroup = quoteleft;
+rightKerningGroup = quoteleft;
 unicode = 2018;
 },
 {
 glyphname = quoteright;
-lastChange = "2017-11-02 06:19:30 +0000";
+lastChange = "2017-11-08 02:19:54 +0000";
 layers = (
 {
 components = (
@@ -28500,6 +28597,8 @@ layerId = "3B8C7C8F-80C4-4490-BC4D-FB44BC992E9B";
 width = 284;
 }
 );
+leftKerningGroup = quoteright;
+rightKerningGroup = quoteright;
 unicode = 2019;
 },
 {
@@ -39380,10 +39479,17 @@ w = -30;
 x = -35;
 y = -20;
 z = -15;
+period = -60;
+comma = -45;
+colon = -23;
+semicolon = -23;
+"@MMK_R_hyphen" = -45;
 };
 U = {
 A = -15;
 AE = -35;
+period = -22;
+comma = -8;
 };
 V = {
 A = -50;
@@ -39399,6 +39505,11 @@ u = -30;
 v = -15;
 w = -25;
 y = -10;
+period = -60;
+comma = -55;
+colon = -25;
+semicolon = -25;
+"@MMK_R_hyphen" = -45;
 };
 W = {
 A = -45;
@@ -39412,6 +39523,11 @@ a = -25;
 "@MMK_R_s" = -20;
 u = -15;
 y = -8;
+period = -40;
+comma = -35;
+colon = -17;
+semicolon = -17;
+"@MMK_R_hyphen" = -18;
 };
 Y = {
 A = -60;
@@ -39431,6 +39547,11 @@ w = -20;
 x = -20;
 y = -18;
 z = -15;
+period = -82;
+comma = -65;
+colon = -42;
+semicolon = -42;
+"@MMK_R_hyphen" = -52;
 };
 Q = {
 A = -10;
@@ -39444,6 +39565,11 @@ V = -18;
 W = -25;
 X = -15;
 Y = -20;
+quoteright = -5;
+"@MMK_R_quotesingle" = -28;
+asterisk = -30;
+period = -38;
+comma = -18;
 };
 X = {
 "@MMK_R_O" = -20;
@@ -39453,6 +39579,7 @@ u = -25;
 v = -40;
 w = -35;
 y = -10;
+"@MMK_R_hyphen" = -55;
 };
 K = {
 "@MMK_R_O" = -35;
@@ -39462,6 +39589,7 @@ u = -25;
 v = -35;
 w = -30;
 y = -20;
+"@MMK_R_hyphen" = -45;
 };
 L = {
 "@MMK_R_O" = -20;
@@ -39474,6 +39602,10 @@ U = -5;
 v = -40;
 w = -30;
 y = -8;
+"@MMK_R_quoteright" = -85;
+"@MMK_R_quotesingle" = -70;
+asterisk = -55;
+"@MMK_R_hyphen" = -80;
 };
 E = {
 "@MMK_R_O" = -10;
@@ -39485,6 +39617,8 @@ F = {
 a = -5;
 "@MMK_R_o" = -19;
 u = -10;
+period = -75;
+comma = -80;
 };
 H = {
 F = 0;
@@ -39497,6 +39631,8 @@ X = -20;
 Y = -10;
 a = -5;
 "@MMK_R_o" = -10;
+period = -52;
+comma = -52;
 };
 S = {
 Y = -25;
@@ -39521,6 +39657,9 @@ W = -5;
 v = -40;
 w = -30;
 y = -30;
+"@MMK_R_quoteright" = -70;
+"@MMK_R_quotesingle" = -60;
+asterisk = -75;
 };
 "@MMK_L_n" = {
 v = -7;
@@ -39567,6 +39706,57 @@ f = {
 };
 "@MMK_L_t" = {
 "@MMK_R_o" = -5;
+};
+quoteleft = {
+"@MMK_R_O" = -28;
+};
+"@MMK_L_quoteleft" = {
+"@MMK_R_A" = -70;
+};
+"@MMK_L_quoteright" = {
+"@MMK_R_A" = -75;
+"@MMK_R_O" = -35;
+};
+"@MMK_L_quotesingle" = {
+"@MMK_R_A" = -60;
+"@MMK_R_O" = -28;
+};
+asterisk = {
+"@MMK_R_A" = -75;
+"@MMK_R_O" = -30;
+};
+period = {
+"@MMK_R_O" = -38;
+T = -60;
+U = -22;
+V = -60;
+W = -40;
+Y = -82;
+};
+comma = {
+"@MMK_R_O" = -28;
+T = -45;
+U = -8;
+V = -55;
+W = -35;
+Y = -65;
+};
+Z = {
+"@MMK_R_hyphen" = -65;
+};
+"@MMK_L_hyphen" = {
+X = -55;
+Y = -52;
+Z = -32;
+T = -45;
+V = -45;
+W = -18;
+};
+questiondown = {
+J = 30;
+};
+exclamdown = {
+J = 25;
 };
 };
 };
