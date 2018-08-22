@@ -52,3 +52,9 @@ Thumbs.db
 /inspiration
 /reference
 /source_b
+
+# Jekyll related files #
+########################
+_site
+.sass-cache
+.jekyll-metadata
